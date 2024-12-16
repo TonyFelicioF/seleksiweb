@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to right, #9fd4f2, hsl(50, 60%, 90%));
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+
+.carousel-inner {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.carousel-item img {
+    border-radius: 15px;
+    height: 360px;
+}
